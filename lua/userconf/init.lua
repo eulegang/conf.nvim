@@ -1,0 +1,5 @@
+require('userconf.colorscheme')
+require('userconf.telescope')
+require('userconf.tree-sitter')
+require('userconf.cmp')
+require('userconf.lsp')
